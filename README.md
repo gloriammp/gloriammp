@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Gloria! I´m from Buenos Aires, Argentina. 
+
+Since May 2024 I´m a  MSc Data Science Candidate. Right now I´m doing my first steps in Git world!
+
+
 <!--
 **gmp-bsas/gmp-bsas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
