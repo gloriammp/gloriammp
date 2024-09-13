@@ -2,7 +2,9 @@
 
 My name is Gloria! I´m from Buenos Aires, Argentina. 
 
-Since May 2024 I´m a  MSc Data Science Candidate. Right now I´m doing my first steps in Git world!
+Since May 2024 I´m a  MSc Data Science Candidate. 
+
+
 
 
 <!--
